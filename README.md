@@ -1,3 +1,4 @@
 # infra
-* Инфраструктурная директория
-* Запускает базу данных для локальной разработки
+
+infrastructure repository
+launch database for local deploy
